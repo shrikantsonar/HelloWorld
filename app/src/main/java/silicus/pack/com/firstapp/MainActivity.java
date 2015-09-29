@@ -11,7 +11,7 @@ import android.widget.ListView;
 public class MainActivity extends ActionBarActivity {
 
     private ListView listTest;
-    private String[] arr = {"A", "B", "C"};
+    private String[] arr = {"A", "B", "C", "D", "E"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
